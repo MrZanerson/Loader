@@ -1,8 +1,3 @@
-# Red Team Operator course code template
-# payload encryption with AES
-# 
-# author: reenz0h (twitter: @SEKTOR7net)
-
 import sys
 from base64 import b64encode
 from Crypto.Cipher import AES
